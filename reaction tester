@@ -1,0 +1,15 @@
+<html>
+
+<head>
+    <title>reaction tester</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>REACTION TESTER</h1>
+    <p>Click on the boxes as soon as you can</p>
+    <div id="shape"> </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
